@@ -1,0 +1,25 @@
+# 大数据文件
+data/ml-10m.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# 虚拟环境
+venv/
+env/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# MacOS
+.DS_Store
+
